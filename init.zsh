@@ -8,7 +8,7 @@
 ######################################################################
 p6df::modules::workato::deps() {
   ModuleDeps=(
-    p6m7g8-ddtfiles/p6df-ruby
+    p6m7g8-dotfiles/p6df-ruby
   )
 }
 
